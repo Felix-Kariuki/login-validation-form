@@ -1,2 +1,2 @@
 # login-validation-form
-its a simple login validation form in javascript
+its a simple registration validation form in javascript
